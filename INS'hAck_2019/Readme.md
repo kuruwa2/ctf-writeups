@@ -13,7 +13,7 @@ Really nice CTF with lots of challenges
 | Names                  |
 |------------------------|
 | [`Hack code`](Hack_code/)|
-| [`Yet Another RSA Challenge`](Yet Another RSA Challenge/) |
+| [`Yet Another RSA Challenge`](Yet%20Another%20RSA%20Challenge/) |
 | [`Yet Another RSA Challenge-Part2`](yarsac_part2/) |
 | [`industrial-process`](Industry_process/) |
 | [`Drone Motion`]('drone_motion/')|
