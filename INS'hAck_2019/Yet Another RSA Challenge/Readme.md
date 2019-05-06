@@ -10,6 +10,6 @@ __Solution__
 
 我們拿到原始碼
 
-![alt text](ode.png)
+![alt text](code.png)
 
 和[輸出](output.txt/)
