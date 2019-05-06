@@ -12,4 +12,4 @@ __Solution__
 
 ![alt text]('code.png')
 
-和[輸出]('output.txt/')
+和[輸出]['output.txt/']
