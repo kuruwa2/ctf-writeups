@@ -1,8 +1,8 @@
 # INS'hAck_2019
 
-First CTF participated with #Rockpelt
+First CTF event participated
 
-Appreciate help from dyadi and Kevin
+Cooperate with Rockpelt. Appreciate help from dyadi and Kevin
 
 Very interesting CTF with lots of challenges
 
