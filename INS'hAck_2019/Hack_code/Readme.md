@@ -11,3 +11,4 @@ This challenge has 4 different flags, better solutions will grant you more flags
 
 __SOLUTION__
 
+[This file][route.txt/]
