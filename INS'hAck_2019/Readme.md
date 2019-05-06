@@ -4,7 +4,7 @@ First CTF participated with #Rockpelt
 
 Appreciate help from dyadi and Kevin
 
-Really nice CTF with lots of challenges
+Very interesting CTF with lots of challenges
 
 ![alt text](rank.png)
 
