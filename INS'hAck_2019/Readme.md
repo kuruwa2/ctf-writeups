@@ -1,6 +1,6 @@
 # INS'hAck_2019
 
-First CTF event I participate
+First CTF event I participated in
 
 Cooperate with Rockpelt. Appreciate help from dyadi and Kevin
 
