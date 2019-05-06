@@ -10,4 +10,6 @@ Flag must match the regex: INSA\{[a-f0-9]+\}
 
 __SOLUTION__
 
-我們拿到[檔案](sensor.png/)，看起來像是無人機的log，
+我們拿到[檔案](sensor.png/)
+
+看起來像是無人機的log，本來我以為x,y,z就是座標，但是畫起來都不太對，後來才看到
