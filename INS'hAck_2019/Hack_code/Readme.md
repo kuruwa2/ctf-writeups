@@ -16,7 +16,7 @@ __SOLUTION__
 我寫了一個[__Greedy Algorithm__](route2.py/)來找這些tap，演算法如下:
 
 1. 對所有routes，找到存在於最多行的router，加入tap
-2. 去掉這些有這個router的routes
+2. 去掉那些有這個router的routes
 3. 重複1.、2.直到routes為空
 
 最後找到了長為128的[tap](128.txt/)，給了我們三個flag。
