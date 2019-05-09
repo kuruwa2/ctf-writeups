@@ -1,0 +1,26 @@
+Simply IDA7.0 pro the given binary.
+
+we find out our goal would probably at calling the gimmeFlagPliz() function.
+The useful part of code writes:
+
+/************START OF THE CODE****************/
+char a;
+int input;
+int b;
+
+a = 0;
+while( b < input){
+	a += 1;
+}
+
+if( a = -14 ){
+	gimmeFlagPliz()
+}
+/**************END OF THE CODE****************/
+
+Therefore, as char be -128 ~ 127 (thanks to kevin, *feeling shameful*)
+the requiring input shall be 256-14 = 242
+
+Key in 242 after SSH gets the flag INSA{B3_v3rY_c4r3fUL_w1tH_uR_1nt3g3r_bR0}
+
+

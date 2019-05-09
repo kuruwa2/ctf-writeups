@@ -1,0 +1,22 @@
+As the file downloaded and extract, the file gflag looks to be:
+
+# (excerpted from gflag)
+G1 X157.871 Y93.656 E2.07047
+G1 X158.694 Y93.819 E0.02631
+G1 X159.395 Y94.279 E0.02631
+G1 X159.872 Y94.969 E0.02631
+G1 X160.055 Y95.788 E0.02631
+G1 X160.009 Y103.158 E0.23108
+G1 X159.774 Y103.785 E0.02100
+G1 X159.360 Y104.311 E0.02100
+G1 X158.806 Y104.688 E0.02100
+G1 X158.164 Y104.879 E0.02100
+# (end of excerption)
+
+Which is a format of gcode.
+Rename the file into "gflag.gcode" and use the online plotting tool ( http://gcode.ws )
+view as 2D and choose not to show non-extrusion moves, retracts and restarts. 
+Choose to show different speeds in the same color.
+
+The flag is shown as ./result.png
+
