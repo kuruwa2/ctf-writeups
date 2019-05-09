@@ -1,0 +1,8 @@
+Also IDA pro 7.0 this.
+
+We see we could get the file if input(short) equals to -0x29a
+
+-0x29a = -666 or 64870 
+
+tried input -666 and got the flag.
+
