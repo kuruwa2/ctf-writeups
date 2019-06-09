@@ -10,7 +10,7 @@ __Solution__
 
 It's a word search game in base64 format.
 
-First I conver 'hsctf{' to base 64
+First I converted 'hsctf{' to base 64:
 
 ```
 >>> base64.b64encode(b'hsctf{')
