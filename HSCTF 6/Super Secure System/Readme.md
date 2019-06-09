@@ -6,7 +6,7 @@ Keith made a SUPER SECURE SYSTEM!!! He claims it is so secure as long as he does
 
 nc crypto.hsctf.com 8111
 
-##Solution
+## Solution
 
 Sending 'hsctf{' to the server, I realized that it has same output as first line.
 
