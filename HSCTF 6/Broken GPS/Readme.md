@@ -21,6 +21,18 @@ I set the initial position at x=0, y=0.
 
 Parsing the whole files, whenever it encounters 'east' in the text, add 1 to x. The 'west's take 1 from x. 'south' and 'north' are the same for y.
 
+```
+for line in f:
+    if 'east' in line:
+        x += 1
+    if 'west' in line:
+        x -= 1
+    if 'north' in line:
+        y += 1
+    if 'south' in line:
+        y -= 1
+```
+
 Finally, calculate 2\*sqrt(x^2+y^2), round it to interger and divide it by 26.
 
 Repeating the process for the 10 files give us the answer
