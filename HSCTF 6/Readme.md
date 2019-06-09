@@ -7,6 +7,8 @@ It was interesting and quite challenging.
 We could perform better if we had a good pwner \_(:3」∠)\_
 
 ![alt text](scoreboard.png)
+![alt text](team.png)
+![alt text](Kuruwa.png)
 
 # Index
 
