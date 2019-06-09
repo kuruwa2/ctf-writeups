@@ -4,6 +4,6 @@ __Description__
 
 English is such a confusing language. Can you help me understand it?
 
-```html
-<p style='color:red'>This is some red text.</p>
+```diff
+- nc misc.hsctf.com 9988
 ```
