@@ -9,7 +9,7 @@ KZ6UaztNnau6z39oMHUu8UTvdmq1bhob3CcEFdWXRfxJqdUAiNep4pkvkAZUSn9CvEvPNT5r2zt6JPg9
 
 __Solution__
 
-Try various decription and the base58 work.
+Try various decryption and the base58 work.
 
 ![alt text](base58.png)
 ![alt text](solve.png)
