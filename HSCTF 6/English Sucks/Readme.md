@@ -1,16 +1,14 @@
 # English Sucks
 
-__Description__
+## __Description__
 
 English is such a confusing language. Can you help me understand it?
 
-```diff
-- nc misc.hsctf.com 9988
-```
+nc misc.hsctf.com 9988
 
 [mt.cpp](mt.cpp)
 
-__solution__
+## __solution__
 
 The given code generate 216 strings each with 3 random integers by [mt19937](https://en.wikipedia.org/wiki/Mersenne_Twister) which is an pseudorandom number generator.
 
