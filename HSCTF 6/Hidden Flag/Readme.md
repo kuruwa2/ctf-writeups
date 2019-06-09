@@ -22,6 +22,8 @@ After trying a lot of different way to analyse the file, the [xortool](https://g
 
 The first key it use is literally invisible, and the first [file](xor.png) of the output give us the flag
 
+![alt text](xor.png)
+
 ```
 hsctf{n0t_1nv1s1bl3_an5m0r3?_39547632}
 ```
