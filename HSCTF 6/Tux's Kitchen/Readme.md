@@ -3,7 +3,9 @@
 __Description__
 
 I need to bake it!
-nc crypto.hsctf.com 8112
+```diff
+-nc crypto.hsctf.com 8112
+```
 [problem.py](problem.py)
 
 __Solution__
