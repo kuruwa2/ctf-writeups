@@ -8,7 +8,7 @@ nc crypto.hsctf.com 8111
 
 ## Solution
 
-Sending 'hsctf{' to the server, I realized that it has same output as first line.
+Sending 'hsctf{' to the server, I realized that it the output matched some of the first line.
 
 ![](problem.png)
 
