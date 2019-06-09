@@ -19,10 +19,17 @@ b'aHNjdGZ7'
 
 Then I tried to look for 'aHNj' in the file.
 
-It is located in the 32nd line in the file and is diagonal.
+It is located in the 35th line in the file and is diagonal.
 
 Write a simple [script](solve.py) to retrieve and decode it.
 
  ```
- hsctf{b4s3_64_w0rd_s3arch3s_ar3_fu9?}
+ aHNjdGZ7YjRzM182NF93MHJkX3MzYXJjaDNzX2FyM19mdTk/fQ5H
+b'hsctf{b4s3_64_w0rd_s3arch3s_ar3_fu9?}\x0eG'
  ```
+
+The flag is
+
+```
+hsctf{b4s3_64_w0rd_s3arch3s_ar3_fu9?}
+```
