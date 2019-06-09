@@ -20,37 +20,37 @@ int main() {
         auto v2 = random();
         auto v3 = random();
 
-        std::cout << "BCDGPTVZ"[v2 >> 0x1F & 0x1 | v3 >> 0x0 & 0x3] //0
-                  << "BCDGPTVZ"[v1 >> 0x09 & 0x7]//1
-                  << "BCDGPTVZ"[v3 >> 0x05 & 0x7]//2
-                  << "BCDGPTVZ"[v3 >> 0x08 & 0x7]//3
-                  << "BCDGPTVZ"[v1 >> 0x15 & 0x7]//4
-                  << "BCDGPTVZ"[v1 >> 0x06 & 0x7]//5
-                  << "BCDGPTVZ"[v3 >> 0x1D & 0x7]//6
-                  << "BCDGPTVZ"[v1 >> 0x1B & 0x7]//7
-                  << "BCDGPTVZ"[v2 >> 0x04 & 0x7]//8
-                  << "BCDGPTVZ"[v2 >> 0x0D & 0x7]//9
-                  << "BCDGPTVZ"[v2 >> 0x0A & 0x7]//10
-                  << "BCDGPTVZ"[v3 >> 0x1A & 0x7]//1
-                  << "BCDGPTVZ"[v2 >> 0x16 & 0x7]//2
-                  << "BCDGPTVZ"[v3 >> 0x17 & 0x7]//3
-                  << "BCDGPTVZ"[v2 >> 0x1C & 0x7]//4
-                  << "BCDGPTVZ"[v3 >> 0x14 & 0x7]//5
-                  << "BCDGPTVZ"[v2 >> 0x01 & 0x7]//6
-                  << "BCDGPTVZ"[v3 >> 0x11 & 0x7]//7
-                  << "BCDGPTVZ"[v1 >> 0x00 & 0x7]//8
-                  << "BCDGPTVZ"[v2 >> 0x13 & 0x7]//9
-                  << "BCDGPTVZ"[v1 >> 0x18 & 0x7]//20
-                  << "BCDGPTVZ"[v3 >> 0x0B & 0x7]//1
-                  << "BCDGPTVZ"[v2 >> 0x19 & 0x7]//2
-                  << "BCDGPTVZ"[v2 >> 0x10 & 0x7]//3
-                  << "BCDGPTVZ"[v1 >> 0x03 & 0x7]//4
-                  << "BCDGPTVZ"[v1 >> 0x12 & 0x7]//5
-                  << "BCDGPTVZ"[v1 >> 0x0F & 0x7]//6
-                  << "BCDGPTVZ"[v3 >> 0x02 & 0x7]//7
-                  << "BCDGPTVZ"[v1 >> 0x0C & 0x7]//8
-                  << "BCDGPTVZ"[v2 >> 0x07 & 0x7]//9
-                  << "BCDGPTVZ"[v3 >> 0x0E & 0x7]//30
+        std::cout << "BCDGPTVZ"[v2 >> 0x1F & 0x1 | v3 >> 0x0 & 0x3]
+                  << "BCDGPTVZ"[v1 >> 0x09 & 0x7]
+                  << "BCDGPTVZ"[v3 >> 0x05 & 0x7]
+                  << "BCDGPTVZ"[v3 >> 0x08 & 0x7]
+                  << "BCDGPTVZ"[v1 >> 0x15 & 0x7]
+                  << "BCDGPTVZ"[v1 >> 0x06 & 0x7]
+                  << "BCDGPTVZ"[v3 >> 0x1D & 0x7]
+                  << "BCDGPTVZ"[v1 >> 0x1B & 0x7]
+                  << "BCDGPTVZ"[v2 >> 0x04 & 0x7]
+                  << "BCDGPTVZ"[v2 >> 0x0D & 0x7]
+                  << "BCDGPTVZ"[v2 >> 0x0A & 0x7]
+                  << "BCDGPTVZ"[v3 >> 0x1A & 0x7]
+                  << "BCDGPTVZ"[v2 >> 0x16 & 0x7]
+                  << "BCDGPTVZ"[v3 >> 0x17 & 0x7]
+                  << "BCDGPTVZ"[v2 >> 0x1C & 0x7]
+                  << "BCDGPTVZ"[v3 >> 0x14 & 0x7]
+                  << "BCDGPTVZ"[v2 >> 0x01 & 0x7]
+                  << "BCDGPTVZ"[v3 >> 0x11 & 0x7]
+                  << "BCDGPTVZ"[v1 >> 0x00 & 0x7]
+                  << "BCDGPTVZ"[v2 >> 0x13 & 0x7]
+                  << "BCDGPTVZ"[v1 >> 0x18 & 0x7]
+                  << "BCDGPTVZ"[v3 >> 0x0B & 0x7]
+                  << "BCDGPTVZ"[v2 >> 0x19 & 0x7]
+                  << "BCDGPTVZ"[v2 >> 0x10 & 0x7]
+                  << "BCDGPTVZ"[v1 >> 0x03 & 0x7]
+                  << "BCDGPTVZ"[v1 >> 0x12 & 0x7]
+                  << "BCDGPTVZ"[v1 >> 0x0F & 0x7]
+                  << "BCDGPTVZ"[v3 >> 0x02 & 0x7]
+                  << "BCDGPTVZ"[v1 >> 0x0C & 0x7]
+                  << "BCDGPTVZ"[v2 >> 0x07 & 0x7]
+                  << "BCDGPTVZ"[v3 >> 0x0E & 0x7]
                   << "BCDGPTVZ"[v1 >> 0x1E & 0x3 | v2 >> 0x00 & 0x1]
 		  << '\n';
     }
