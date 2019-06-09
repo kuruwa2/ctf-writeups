@@ -11,8 +11,8 @@ __Solution__
 
 Try various decription and the base58 work.
 
-![alt text](base52.png)
-![alt text](solv2.png)
+![alt text](base58.png)
+![alt text](solve.png)
 
  ```
  hsctf{w0w_th1s_1s_my_f1rst_crypt0_chall3ng3?}
