@@ -15,4 +15,18 @@ Find the letter for each test case and string them together. The result is the f
 
 __Solution__
 
+This challenge is like a programming challenge.
 
+I set the initial position at x=0, y=0.
+
+Parsing the whole files, whenever it encounters 'east' in the text, add 1 to x. The 'west's take 1 from x. 'south' and 'north' are the same for y.
+
+Finally, calculate 2\*sqrt(x^2+y^2), round it to interger and divide it by 26.
+
+Repeating the process for the 10 files give us the answer
+
+```
+garminesuckz
+```
+
+The flag is ```hsctf{garminesuckz}```
