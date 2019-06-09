@@ -14,7 +14,7 @@ c = 3280552792121286168982038099830397087874903846507258907485769272088830553814
 
 The n actually has a small prime factor 29. So you can find it easily by yafu or factorDB.
 
-Just use simple [script]('solve.py') to retrieve the flag.
+Just use simple [script]('./solve.py') to retrieve the flag.
 
 ```
 hsctf{y3s_rsa_1s_s0lved_10823704961253}
