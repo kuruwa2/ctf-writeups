@@ -10,6 +10,8 @@ nc crypto.hsctf.com 8111
 
 Sending 'hsctf{' to the server, I realized that it has same output as first line.
 
+![](problem.png)
+
 So I just wrote [script](solve.py) to sent all printable characters until it matched the answer.
 
 ![](ans.png)
