@@ -53,9 +53,11 @@ def prepare(food):
 ```
 
 So I first get 3 lists of numbers and reverse the prepare process.
+```
 for i in range(len(ans)):
     ans[-1] = ans[-1] - MY_LUCKY_NUMBER
     ans[i] = ans[i] ^ MY_LUCKY_NUMBER
+````
 For all printable characters, if it is the factor of the number, put it in the candidate list.
 ```
 for j in range(32,127):
