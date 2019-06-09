@@ -1,6 +1,6 @@
 # Tux's Kitchen
 
-__Description__
+##__Description__
 
 I need to bake it!
 
@@ -8,7 +8,7 @@ nc crypto.hsctf.com 8112
 
 [problem.py](problem.py)
 
-__Solution__
+##__Solution__
 
 The server print a cute penguin and a list of numbers.
 
