@@ -1,12 +1,12 @@
 # 64+word
 
-__Description__
+## __Description__
 
 Help Keith with his word search!!!! Where is the flag?
 
 [64word.txt](64word.txt)
 
-__Solution__
+## __Solution__
 
 It's a word search game in base64 format.
 
