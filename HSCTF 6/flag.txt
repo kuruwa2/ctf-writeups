@@ -1,0 +1,26 @@
+Intro_to_Netcat:hsctf{internet_cats}
+Inspect_Me:	hsctf{that_was_pretty_easy_right}
+ReveresSA:	hsctf{y3s_rsa_1s_s0lved_10823704961253}		
+Cool_Image:	hsctf{who_uses_extensions_anyways}
+S-Q-L:		hsctf{mysql_real_escape_string}
+Agent_Keith:	hsctf{wow_you_are_agent_keith_now}
+SSS:		hsctf{h0w_d3d_y3u_de3cryP4_th3_s1p3R_s3cuR3_m355a9e?}
+A-byte:		hsctf{w0w_y0u_kn0w_d4_wA3_8h2bA029}
+A_Lost_Cause:	hsctf{GLASSESAREUSEFULDONOTLOSETHEM}
+Daheck:		hsctf{th4t_w4s_fun!_l3ts_try_s0m3_m0r3_r3v3rs3}
+VirtualJava:	hsctf{y0u_d3f34t3d_th3_b4by_vm}
+FYP:		e06f76cd556604f0f21c34f1519d2fd2 73c8535ab0f954b5ad1cbab7abc18309
+Broken_GPS:	hsctf{garminesuckz}
+License:	hsctf{k3ith_m4k3s_tr4sh_r3}
+Tux_Talk_Show:	hsctf{n1ce_j0b_w4th_r4ndom_gue33ing}
+Trig:		hsctf{:hyperthonk:}
+Massive RSA:	hsctf{forg0t_t0_mult1ply_prim3s}
+ReallySecureA:	hsctf{square_number_time}
+Englicsh_Sucks:	hsctf{y0u_kn0w_1_h4d_t0_d0_1t_t0_3m_rng_god}
+Tux_Kitchen:	hsctf{th1s_1s_0ne_v3ry_l0ng_fl@g_b3ca8s3_t5x_l0v3z_vveR9_LOn9_flaGs7!}
+Bomb:		hsctf{d1d_y0ur_b0mbe_s4cc33d???-961451631955}
+Skywriting_v2:	hsctf{iTs_sUpeR_obViouS}
+keith-bot:	hsctf{discord_bot_pyjail_owo}
+64+word:	hsctf{b4s3_64_w0rd_s3arch3s_ar3_fu9?}
+WelcomeTCL:	hsctf{w0w_th1s_1s_my_f1rst_crypt0_chall3ng3?}
+Hidden Flag:	hsctf{n0t_1nv1s1bl3_an5m0r3?_39547632}
