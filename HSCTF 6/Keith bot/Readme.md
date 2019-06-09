@@ -10,4 +10,4 @@ Note: The flag is in flag.txt
 
 __Solution__
 
-![alt text](sovle.png)
+![alt text](solve.png)
