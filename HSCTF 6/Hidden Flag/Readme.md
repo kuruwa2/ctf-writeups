@@ -16,7 +16,7 @@ The hexdump of the file give me an interesting line in the last line.
 
 However, I don't have any idea where to use the key.
 
-After trying a lot of different way to analyse the file, the [xortool] catch my eye.
+After trying a lot of different way to analyse the file, the [xortool](https://github.com/hellman/xortool) catch my eye.
 
 ![alt text](xortool.png)
 
