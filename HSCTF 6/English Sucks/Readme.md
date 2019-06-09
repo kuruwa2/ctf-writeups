@@ -36,7 +36,7 @@ std::cout << "BCDGPTVZ"[v2 >> 0x1F & 0x1 | v3 >> 0x0 & 0x3]
 
 It take every 3 bits of the numbers and decide a character.
 
-However, the first and the last bits are not confirm because the OR operation. That causes the uncertainty of the answer.
+However, the first and the last bits are not confirmable because the OR operation. That causes the uncertainty of the answer.
 
 Write a [script](solve.py) with the predictor and try it several times until it success.
 
