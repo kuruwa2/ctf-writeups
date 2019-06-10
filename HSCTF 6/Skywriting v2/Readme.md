@@ -38,7 +38,7 @@ hsctf{iTs_sUpl[Vfk\x17j?%P~
 ```
 Surprisingly, the flag's format popped out.
 
-Next, I guessed the seconde word would be 'sUper' and cauculted which number should 'l' xor to become 'e'.
+Next, I guessed the second word would be 'sUper' and cauculted which number should 'l' xor to become 'e'.
 
 This time, only the characters after 'l' were xored by this number.
 
