@@ -10,7 +10,7 @@ I was scared that my RSA would be broken, so I made sure that the numbers were m
 
 The n is actually a prime.
 
-So phi(n) = n-1. Perform the modded inverse of e and decrypto the message.
+So phi(n) = n-1. Perform the modded inverse of e and decrypt the message.
 
 ```
 d=modinv(e,n-1)
@@ -19,6 +19,6 @@ print(codecs.decode(hex(pow(c,d,n))[2:],'hex'))
 ```
 
 The flag is
-``
+```
 hsctf{forg0t_t0_mult1ply_prim3s}
 ```
