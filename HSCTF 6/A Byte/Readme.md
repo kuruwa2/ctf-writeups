@@ -87,6 +87,7 @@ Finally, it is compared with the following string.
 ```
 So I wrote a simple [script](solve.py) to xor the string back and yield the flag.
 
+![](ans.png)
 ```
 hsctf{w0w_y0u_kn0w_d4_wA3_8h2bA029}
 ```
