@@ -65,3 +65,4 @@ But I didn't know the cases of 'v' and 'i'. Guessing the flag on the server gave
 hsctf{iTs_sUpeR_obViouS}
 ```
 
+Also, I found out the intended [solution](solve.py) after the ctf ended.
