@@ -1,12 +1,12 @@
 # Hidden Flag
 
-__Description__
+## Description
 
 This image seems wrong.....did Keith lose the key __again__?
 
 [chall.png](chall.png)
 
-__Solution__
+## Solution
 
 An error occured when opening the file.
 
