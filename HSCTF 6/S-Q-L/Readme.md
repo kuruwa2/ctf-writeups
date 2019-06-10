@@ -8,6 +8,8 @@ https://s-q-l.web.chal.hsctf.com/
 
 ## Solution
 
+Simple SQL injection
+
 ![](solve.png)
 ![](ans.png)
 
