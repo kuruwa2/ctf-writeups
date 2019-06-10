@@ -20,6 +20,8 @@ After trying a lot of different way to analyse the file, the [xortool](https://g
 
 ![alt text](xortool.png)
 
+It xor the whole file with different possible key.
+
 The first key it use is literally invisible, and the first [file](xor.png) of the output give us the flag
 
 ![alt text](xor.png)
