@@ -15,3 +15,12 @@ Description: Keith made a cool license-checking program but he forgot the flag h
 
 ## Solution
 
+Input ```a..z0..9``` and find the characters one by one.
+
+![](problem.png)
+
+The flag is
+
+```
+hsctf{k3ith_m4k3s_tr4sh_r3}
+```
