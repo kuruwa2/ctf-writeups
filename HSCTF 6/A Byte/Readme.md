@@ -78,7 +78,13 @@ Finally, it is compared with the following string.
 |   :  |    0x0000085d      c645f27c       mov byte [local_eh], 0x7c   ; '|'
 |   :  |    0x00000861      c645f300       mov byte [local_dh], 0
 ```
-
+```
+|   :  |    0x00000873      e898fdffff     call sym.imp.strcmp         ; int strcmp(const char *s1, const char *s2)
+|   :  |    0x00000878      85c0           test eax, eax
+|   `=====< 0x0000087a      0f85e4feffff   jne 0x764
+|      |    0x00000880      488d3dc20000.  lea rdi, qword str.Oof__ur_too_good ; 0x949 ; "Oof, ur too good"
+|      |    0x00000887      e854fdffff     call sym.imp.puts           ; int puts(const char *s)
+```
 So I wrote a simple [script](solve.py) to xor the string back and yield the flag.
 
 ```
