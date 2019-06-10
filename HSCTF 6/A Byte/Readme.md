@@ -79,7 +79,7 @@ Finally, it is compared with the following string.
 |   :  |    0x00000861      c645f300       mov byte [local_dh], 0
 ```
 
-So I wrote a simple [script](solve.py) to xor the string back and yiled the flag.
+So I wrote a simple [script](solve.py) to xor the string back and yield the flag.
 
 ```
 hsctf{w0w_y0u_kn0w_d4_wA3_8h2bA029}
