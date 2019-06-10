@@ -57,7 +57,7 @@ It seemed promising, doing the same guessing thing several times, I recovered th
 ```
 hsctf{iTs_sUpeR_obG:ouS}
 ```
-It's super obvious that the answer was 'iTs_sUpeR_obviouS'. ('w')
+It's super obvious that the answer was 'iTs_sUpeR_obviouS'. (\`ω\`)
 
 But I didn't know the cases of 'v' and 'i'. Guessing the flag on the server gave me the answer.
 
