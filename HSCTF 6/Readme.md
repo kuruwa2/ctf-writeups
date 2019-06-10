@@ -37,6 +37,7 @@ We could perform better if we had a good pwner \_(:3」∠)\_
 | [`Forgot Your Password?`](Forgot%20Your%20Password/)|Reverse|467|
 | [`Cool Image`](Cool%20Image/)|Forensics|101|
 | [`Fish`](Fish/)|Forensics|237|
+| [`Double Trouble`](Double%20Trouble]|Forensics|399|
 | [`Skywriting v2`](Skywriting%20v2/)|Forensics|461|
 | [`Inspect Me`](Inspect%20Me/)|Web|51|
 | [`Agent Keith`](Agent%20Keith/)|Web|101|
