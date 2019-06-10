@@ -10,7 +10,7 @@ Pirate Keith loves cryptography and has protected his treasure with a very annoy
 
 ## Solution
 
-At first the description was wrong and it said "every subsequent letter is shifted one __**more**__ than the previous."
+At first the description was wrong and it said "every subsequent letter is shifted one **__more__** than the previous."
 
 So I trid to shift them back more as the string went down.
 
