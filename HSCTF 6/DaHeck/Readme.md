@@ -36,11 +36,11 @@ The string daheck should be identical with the int array at the end.
 The while loop that generates daheck operates like this:
 
 ```
-if heck[n], which is an int, is smaller than cs[n]:
-    daheck[n] = heck[n] - cs[n] % 128
-else:
-    daheck[n] = heck[n] - cs[n]
+for n in range(len(cs)):
+    daheck[n] = (char) (heck[n] - cs[n])
 ```
+Which is an unsigned int substraction. (-1 = /uffff)
+
 Hence, I reversed it using numpy's uint16 in the [script](daheck.py).
 
 ```
