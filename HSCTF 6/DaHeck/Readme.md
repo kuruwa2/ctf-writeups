@@ -31,7 +31,7 @@ The DaHeck class have a check_flag function which is:
         return "\uffc8\uffbd\uffce\uffbc\uffca\uffb7\uffc5\uffcb\u0005\uffc5\uffd5\uffc1\uffff\uffc1\uffd8\uffd1\uffc4\uffcb\u0010\uffd3\uffc4\u0001\uffbf\uffbf\uffd1\uffc0\uffc5\uffbb\uffd5\uffbe\u0003\uffca\uffff\uffda\uffc3\u0007\uffc2\u0001\uffd4\uffc0\u0004\uffbe\uffff\uffbe\uffc1\ufffd\uffb5".equals(new String(daheck));
     }
 ```
-The string daheck should be identical with the int array.
+The string daheck should be identical with the int array at the end.
 
 The while loop that generates daheck operates like this:
 
