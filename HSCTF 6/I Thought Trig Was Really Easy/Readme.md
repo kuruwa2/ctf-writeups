@@ -35,6 +35,8 @@ for i in range(0, 12):
             break
     inp += chr(96+k)
 ```
+The complete srcipt can be seen [here](trig_is_really_easy.py).
+
 And finally it gave me the flag.
 
 ```
