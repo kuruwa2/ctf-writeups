@@ -39,9 +39,9 @@ The while loop that generates daheck operates like this:
 if heck[n], which is an int, is smaller than cs[n]:
     daheck[n] = heck[n] - cs[n] % 128
 else:
-    daheck[n] = heck[n] - cs[n] % 255
+    daheck[n] = heck[n] - cs[n]
 ```
-Hence, I reversed it using numpy's uint16 in the [script](solve.py).
+Hence, I reversed it using numpy's uint16 in the [script](daheck.py).
 
 ```
 for i in range(len(daheck)):
