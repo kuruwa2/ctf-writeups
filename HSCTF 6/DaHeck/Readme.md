@@ -35,7 +35,21 @@ The string daheck should be identical with the int array.
 
 The while loop that generates daheck operates like this:
 
-* if heck[n], which is an int, is smaller than cs[n % length]:
-** daheck[n] = heck[n] - cs[n] % 128
-* else:
-** daheck[n] = heck[n] - cs[n] % 255
+```
+if heck[n], which is an int, is smaller than cs[n]:
+    daheck[n] = heck[n] - cs[n] % 128
+else:
+    daheck[n] = heck[n] - cs[n] % 255
+```
+Hence, I reversed it using numpy's uint16 in the [script](solve.py).
+
+```
+for i in range(len(daheck)):
+    cs += chr(np.uint16(-daheck[i] + heck[i]))
+```
+
+And that got me the flag.
+
+```
+hsctf{th4t_w4s_fun!_l3ts_try_s0m3_m0r3_r3v3rs3}
+```
