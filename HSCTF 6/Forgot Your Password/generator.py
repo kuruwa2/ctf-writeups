@@ -38,8 +38,8 @@ def isp(d):
 		return d.encode('hex')
 
 # throw away first value for additional randomness
-# next()
-# next()
+next()
+next()
 
 COMBO_NUM_1 = isp(bin2chr(next())) + isp(bin2chr(next()))
 COMBO_NUM_2 = isp(bin2chr(next())) + isp(bin2chr(next()))
