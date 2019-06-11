@@ -12,8 +12,8 @@ The [class](VirtualJava.class) operates like some kind of assembly code.
 
 It parses through the input characters and obtain an output. If the output in each step falls to owo[1], it would be wrong.
 
-It's too tedious to reverse it artificially, so I reversed it using the given code.
-
+It's too tedious to reverse it artificially, so I reversed it using the given [code](VirtualJavaSolve.java) with some modification.
+ 
 Each step I at a printable character to the string and check the outcome. If the output was good, add it to the answer and move on to next word.
 
 ```
