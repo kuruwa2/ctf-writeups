@@ -8,7 +8,7 @@ There's nothing like executing my own code in Java in my own special way.
 
 ## Solution
 
-The [class](VirtualJava.class) operates like some kind of assembly code.
+The [class](VirtualJava.java) operates like some kind of assembly code.
 
 It parses through the input characters and obtain an output. If the output in each step falls to owo[1], it would be wrong.
 
