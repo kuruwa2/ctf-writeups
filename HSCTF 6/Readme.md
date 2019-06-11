@@ -27,7 +27,7 @@ We could perform better if we had a good pwner \_(:3」∠)\_
 | [`Welcome to Crypto Land`](Welcome%20to%20Crypto%20Land/)|Crypto|340|
 | [`Tux's Kitchen`](Tux's%20Kitchen/)|Crypto|405|
 | [`Bomb`](Bomb/)|Crypto|452|
-| [`Spooky ECC`)(Spooky%20ECC/)|Crypto|457|
+| [`Spooky ECC`](Spooky%20ECC/)|Crypto|457|
 | [`Marginally More Spooky ECC`](Marginally%20More%20Spooky%20ECC/)|Crypto|473|
 | [`Multiplication Service`](Multiplication%20Service/)|Crypto|490|
 | [`A Byte`](A%20Byte/)|Reverse|180|
