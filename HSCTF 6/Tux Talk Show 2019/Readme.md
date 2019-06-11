@@ -20,11 +20,11 @@ But I noticed that the server only took the remainder of the number generated di
 
 ![](decompile.png)
 
-Therefore, I might be able to guessed a possible answer several time.
+Therefore, I might be able to guess it by guessing a possible answer several time.
 
 And that's how I got it right!
 
-![](answer.png)
+![](Guess.png)
 
 The flag is
 
