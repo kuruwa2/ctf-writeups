@@ -34,7 +34,7 @@ def h():
 	s[1] = m(oro(o(s1,36),p(36,s1)))
 ```
 
-In the last step, its output should be the hex encode of 'wowlooco' and the second last step's should be 'ssiftcsh', so the isp(bin2chr(s)) can output the correspond COMBO_NUM_3.
+In the last step, its output should be the hex encode of 'wowlooco' and the second last step's should be 'ssiftcsh', so the isp(bin2chr(next()))+isp(bin2chr(next())) would output 'hsctfissocoolwow'.
 
 ```
 def bin2chr(data):
