@@ -39,7 +39,7 @@ The while loop that generates daheck operates like this:
 for n in range(len(cs)):
     daheck[n] = (char) (heck[n] - cs[n])
 ```
-Which is an unsigned int substraction. (-1 = /uffff)
+Which is an unsigned int substraction. (-1 = \uffff)
 
 Hence, I reversed it using numpy's uint16 in the [script](daheck.py).
 
