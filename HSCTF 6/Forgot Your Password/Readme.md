@@ -81,7 +81,7 @@ e06f76cd556604f0f21c34f1519d2fd2
 73c8535ab0f954b5ad1cbab7abc18309
 hsctfissocoolwow
 ```
-So the flag is
+Nice job! So the flag is
 ```
 e06f76cd556604f0f21c34f1519d2fd2 73c8535ab0f954b5ad1cbab7abc18309
 ```
