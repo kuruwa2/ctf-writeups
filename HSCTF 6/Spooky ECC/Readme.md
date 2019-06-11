@@ -4,7 +4,7 @@
 
 Bigger curves means better right?
 
-[Intercept.txt](Intercept.txt)
+[intercept.txt](intercept.txt)
 
 [problem.sage](problem.sage)
 
