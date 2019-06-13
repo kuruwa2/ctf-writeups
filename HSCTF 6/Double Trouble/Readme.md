@@ -29,7 +29,7 @@ b2,b,msb,xy         .. text: "{sXsE4}8"
 b3,g,lsb,xy         .. text: "Wg8je^i<"
 b4,b,msb,xy         .. text: "%BE##cgv"
 ```
-Visiting the website, we can download a [file](hmmm.txt).
+Visiting the [website](https://www.mediafire.com/file/0n67qsooy8hcy30/hmmm.txt/fileA), we can download a [file](hmmm.txt).
 
 Check what file type is it.
 ```
