@@ -14,7 +14,7 @@ Like runescape-1, there are 26 shapes of runes. One for each lowercase letter.
 
 In the first hint, the crib is ```werenostrangerstolove_youknow```, it's the lyrics of legendary [Never gonna give you up](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
-The lyrics until first chorus end have a perfect match in the length with the encrpyted message, so I extended the crib to:
+The lyrics until first chorus ends have a perfect match in the length with the encrpyted message, so I extended the crib to:
 
 ```
 werenostrangerstolove_youknowtherulesandsodoi_afullcommitmentswhatimthinkingof_youwouldntgetthisfromanyotherguy_ijustwannatellyouhowimfeeling_gottamakeyouunderstand_nevergonnagiveyouup_nevergonnaletyoudown_nevergonnarunaroundanddesertyou_nevergonnamakeyoucry_nevergonnasaygoodbye_nevergonnatellalieandhurtyou_
