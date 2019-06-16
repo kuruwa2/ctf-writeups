@@ -38,7 +38,9 @@ After first run, the output is: (after the crib)
 
 Google that, the next song is famous meme [shooting star](https://www.youtube.com/watch?v=HrO9-j_zALg).
 
-Fill in the length-matching lyrics again, and do the same thing over and over until all ```?``` are gone.
+Fill in the length-matching lyrics again, and fill in the unknown words until all ```?``` are gone.
+
+The lyrics including [It's Muffin Time!](https://www.youtube.com/watch?v=cGzujGfXrlI), [SOS](https://www.youtube.com/watch?v=kBU3RuqQkns). And the other can be judged by the context.
 
 After all time-consuming job, I finally got the flag:
 
