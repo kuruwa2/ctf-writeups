@@ -20,15 +20,15 @@ The lyrics until first chorus end have a perfect match in the length with the en
 werenostrangerstolove_youknowtherulesandsodoi_afullcommitmentswhatimthinkingof_youwouldntgetthisfromanyotherguy_ijustwannatellyouhowimfeeling_gottamakeyouunderstand_nevergonnagiveyouup_nevergonnaletyoudown_nevergonnarunaroundanddesertyou_nevergonnamakeyoucry_nevergonnasaygoodbye_nevergonnatellalieandhurtyou_
 ```
 
-I noticed that the first, fourth, and fifth '''nevergonna''' are all encoded to '''wjfgfsacuk''' (or '''ᚦᚫᚢᚴᚢᚶᚪᚤᚷᚰ''' in the rune).
+I noticed that the first, fourth, and fifth ```nevergonna``` are all encoded to ```wjfgfsacuk``` (or ```ᚦᚫᚢᚴᚢᚶᚪᚤᚷᚰ``` in the rune).
 
-The first and fourth are separated by 70 words (not counting '''_'''), and the fourth and fifth are separeted by 20 words.
+The first and fourth are separated by 70 words (not counting ```_```), and the fourth and fifth are separeted by 20 words.
 
 So the key is likely be 10 words long.
 
 I recorded 10 mapping of the encrpyted characters to crib characters in the [script](runescape-2.py).
 
-And after the crib, I recovered the characters that have mapping beforehand. The rest are replaced by '''?'''.
+And after the crib, I recovered the characters that have mapping beforehand. The rest are replaced by ```?```.
 
 After first run, the output is: (after the crib)
 
@@ -38,7 +38,7 @@ After first run, the output is: (after the crib)
 
 Google that, the next song is famous meme [shooting star](https://www.youtube.com/watch?v=HrO9-j_zALg).
 
-Fill in the length-matching lyrics again, and do the same thing over and over until all '''?''' are gone.
+Fill in the length-matching lyrics again, and do the same thing over and over until all ```?``` are gone.
 
 After all time-consuming job, I finally got the flag:
 
