@@ -8,7 +8,7 @@ X-masCTF is a 7-day long CTF with problems in many different fields.
 
 | Names                  |Genre               |Point      |
 |------------------------|---------------------|----------|
-| [`Ancient Christmas`](Ancient%20Cristmas/)|PPC|445|
+| [`Ancient Christmas`](Ancient%20Christmas/)|PPC|445|
 | [`DeFUNct Ransomware`](DeFUNct%20Ransomware/)|Crypto|25|
 | [`FUNction Plotter`](FUNction%20Plotter/)|Misc|50|
 | [`Orakel`](Orakel/)|PPC|152|
