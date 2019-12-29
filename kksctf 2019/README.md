@@ -13,6 +13,7 @@
 | [`Message from base`](Message%20from%20base/)|Crypto|365|
 | [`Not Quick Enough`](Not%20Quick%20Enough/)|Misc|971|
 | [`Predictor`](Predictor/)|Misc|997|
+| [`Stego Warmup`](Stego%20Warmup/)|Misc|100|
 | [`Xmas Tree 2`](Xmas%20Tree%202/)|Rev|100|
 | [`Xmas Tree`](Xmas%20Tree/)|Misc|100|
 | [`kacker Bob and kacker Alice`](kacker%20Bob%20and%20kacker%20Alice/)|Crypto|100|
