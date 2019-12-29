@@ -7,4 +7,5 @@
 ## Solution
 
 ```
+kks{c_is_simple_only_when_you_are_drunk}
 ```
