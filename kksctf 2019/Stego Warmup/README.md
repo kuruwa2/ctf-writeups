@@ -2,7 +2,7 @@
 
 ## Description
 
-<img src="chall.png" width="300>
+<img src="chall.png" width="300">
 
 ## Solution
 
