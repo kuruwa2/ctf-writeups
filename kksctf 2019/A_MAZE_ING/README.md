@@ -2,6 +2,6 @@
 
 ## __Description__
 
-![](chall.png)
+<img src="chall.png" width="200"?
 
 ## __Solution__
