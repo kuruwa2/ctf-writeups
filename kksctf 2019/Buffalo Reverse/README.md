@@ -6,6 +6,8 @@
 
 ## __Solution__
 
+Guess the first five words are 'flag{' and brute force the rest.
+
 ```
 ...
 flag{y0p_brute_he}
