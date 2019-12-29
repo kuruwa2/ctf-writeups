@@ -26,4 +26,12 @@ Here's my algorithm.
 
 5. Clear all visited point and go to 1.
 
+Chance is low that it failed the test.
+
 Here is the [script]('a_maze_ing.py')
+
+After some tiral, I got the flag.
+
+```
+kks{A*_41g0ri7hm_|s_600D_3n0U6h!}
+```
