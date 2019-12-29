@@ -8,7 +8,7 @@
 
 We have many maze challenges like this:
 
-<img src="maze.png" width="300">
+<img src="maze.png" width="500">
 
 'Om' means keys, you need this to pass through doors '{}', and the final goal is '<>'.
 
