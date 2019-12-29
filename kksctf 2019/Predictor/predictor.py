@@ -1,9 +1,9 @@
+import random
 from pwn import *
 from randcrack import RandCrack
 import zlib
 
 rc = RandCrack()
-
 
 p = 'POST /regen HTTP/1.1\r\n\
 Host: tasks.open.kksctf.ru:20007\r\n\
@@ -37,5 +37,10 @@ r.send(p)
 r.recvuntil(b'your new seed ')
 q = int(r.recvuntil(b' '))
 print(q)
-print(rc.predict_randrange(0, 4294967294))
-print(rc.predict_randrange(0, 4294967294))
+print(rc.predict_randrange(0, 4294967294)+bseed)
+
+bseed = zlib.crc32("admin".encode())
+s = rc.predict_randrange(0, 4294967294)+bseed
+random.seed(s)
+first_opt = random.randint(0, 4294967294) * 1337
+print(random.randint(0, 4294967294) * 1337)
