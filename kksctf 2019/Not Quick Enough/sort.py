@@ -43,7 +43,6 @@ def sort(a, lb, rb, d):
         a[l] ^= a[r]
         l += 1
         r -= 1
-    print(d+1)
     sort(a, lb, l - 1, d+1)
     sort(a, r + 1, rb, d+1)
 
