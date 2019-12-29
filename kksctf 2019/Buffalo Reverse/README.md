@@ -1,4 +1,4 @@
-# A_MAZE_ING (Rev) \[100\]
+# Buffalo Reverse (Rev) \[100\]
 
 ## __Description__
 
