@@ -35,7 +35,7 @@ And then we regenerate the seed for admin, now we can predict the next otp of ad
 >>> random.randint(0, 4294967294) * 1337
 64945073151                                       \\second OTP
 ```
-<img src="abs.png" width="400">
+<img src="ans.png" width="400">
 ```
 kks{s33ms_l1k3_y0u_s0_5ucc3ssful_1n_r4nd0m_pr3d1ct10n}
 ```
