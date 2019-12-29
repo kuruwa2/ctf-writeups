@@ -16,5 +16,8 @@ Minus all russians by 975 and get the string.
 ```
 Base64 decode it to get the flag.
 ```
+this is a secret message from kackers:\nWe are discovered, new base access password is kks{custom_b64_alphabet_c4nt_$t0p_y0u}
+```
+```
 kks{custom_b64_alphabet_c4nt_$t0p_y0u}
 ```
