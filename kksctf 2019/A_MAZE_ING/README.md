@@ -32,7 +32,7 @@ Here is the [script]('a_maze_ing.py')
 
 After some tiral, I got the flag.
 
-<img src="ans.png" width="500">
+<img src="ans.png">
 
 ```
 kks{A*_41g0ri7hm_|s_600D_3n0U6h!}
