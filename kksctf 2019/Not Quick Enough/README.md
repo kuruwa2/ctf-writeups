@@ -10,7 +10,7 @@ This task asks us to provide an 1000 elements array that exceeds recursion limit
 
 The pivot it chooses is the median of left bound, right bound and a random element.
 
-If we can let pivot always be one bound element, and that element is the second big element in the array (this means that the other bound is the biggest element), we should be able to reach recursion limit.
+If we can let pivot always be one bound element, and that element is the second biggest element in the array (this means that the other bound is the biggest element), we should be able to reach recursion limit.
 
 ```
 a1 a2 a3 ...  an            an a2 a3 ...an-1  a1              an a2 a3 ...an-1  a1
