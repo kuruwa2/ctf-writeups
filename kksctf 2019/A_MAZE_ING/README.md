@@ -15,7 +15,7 @@ We have many maze challenges like this:
 You can't make too many steps or it will fail.
 
 Here's my algorithm.
-\\\\
+
 1. Store all reachable points by BFS.
 
 2. Check the goal if it's reachable. If it is, find the shortest path to it and break.
