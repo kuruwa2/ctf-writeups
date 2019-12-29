@@ -1,4 +1,4 @@
-# A_MAZE_ING (Misc) \[971\]
+# Not Quick Enough (Misc) \[971\]
 
 ## __Description__
 
