@@ -24,7 +24,7 @@ uint32_t a_very_random_number(){			// Fair and unpredictable!
 
 where fd is /dev/urandom, so the number is about 500*LEVEL because it's pretty random.
 
-So the strategy is to choose smallest dice and flip it with 500*LEVEL/(sides*0.5+0.5).
+So the strategy is to choose smallest dice and flip it with 500\*LEVEL/(sides\*0.5+0.5).
 
 After final battle, you are asked to choose to press GREEN or PURPLE button, press PURPLE and get the flag.
 
