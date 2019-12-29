@@ -28,7 +28,7 @@ for i in range(len(pp)):
     p[pp[i]] = i
 ```
 
-Then use the Shuffle function they gave us to reverse the whole process.
+Then use this mapping to reverse the whole process.
 
 The flag can be found in [message_from_above]('message_from_above.txt)
 
