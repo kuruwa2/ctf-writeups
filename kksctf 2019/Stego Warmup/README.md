@@ -1,4 +1,4 @@
-# Stego Warmup
+# Stego Warmup (Misc) \[100\]
 
 ## Description
 
