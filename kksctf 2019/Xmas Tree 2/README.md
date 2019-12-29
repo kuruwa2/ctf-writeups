@@ -16,7 +16,7 @@ I simply put i = 3 and see what came out.
 >>> kks{c_is_simppi_�nly_when_you_are_drunk}
 ```
 
-Revise the letters affected by i and you should get the flag.
+Revise the letters affected by i and get the flag.
 
 ```
 kks{c_is_simple_only_when_you_are_drunk}
