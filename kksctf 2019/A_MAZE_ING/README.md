@@ -2,6 +2,6 @@
 
 ## __Description__
 
-<img src="chall.png" width="200"?
+<img src="chall.png" width="200">
 
 ## __Solution__
