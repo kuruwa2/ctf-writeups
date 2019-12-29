@@ -8,6 +8,7 @@
 |------------------------|---------------------|----------|
 | [`A_MAZE_ING`](A_MAZE_ING/)|PPC|983|
 | [`Buffalo Reverse`](Buffalo%20Reverse/)|Rev|100|
+| [`Christmas quest`](Christmas%20quest/)|Misc|983|
 | [`Every day i'm shuffling`](Every%20day%20i'm%20shuffling/)|Crypto|481|
 | [`Message from base`](Message%20from%20base/)|Crypto|365|
 | [`Not Quick Enough`](Not%20Quick%20Enough/)|Misc|971|
