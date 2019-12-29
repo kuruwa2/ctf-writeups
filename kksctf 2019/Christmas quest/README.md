@@ -26,8 +26,12 @@ where fd is /dev/urandom, so the number is about 500*LEVEL because it's pretty r
 
 So the strategy is to choose smallest dice and flip it with 500\*LEVEL/(sides\*0.5+0.5).
 
+For example, in LEVEL 10, you pick 4-sided dice, you should flip it 500\*10/2.5 = 2000 times.
+
+<img src="level10.png" width="300">
+
 After final battle, you are asked to choose to press GREEN or PURPLE button, press PURPLE and get the flag.
 
 ```
-kks{}
+kks{M3rry_Chr157m45_4nd_4_H4ppy_N3w_Y34r!_W17h_l0v3,_KKS_TEAM}
 ```
