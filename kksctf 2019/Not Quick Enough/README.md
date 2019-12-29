@@ -20,7 +20,7 @@ l             r                l        r                                 r     
 ```
 An easy way to construct it is 1000 1 2 3 ... 999, and that's how I accomplished it.
 
-<img src="sol.png" width="500">
+<img src="sol.png" width="700">
 
 ```
 kks{63773r_u53_5746!3_50r7_n3x7_71m3}
