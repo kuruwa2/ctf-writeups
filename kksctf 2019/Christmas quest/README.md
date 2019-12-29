@@ -28,7 +28,7 @@ So the strategy is to choose smallest dice and flip it with 500\*LEVEL/(sides\*0
 
 For example, in LEVEL 10, you pick 4-sided dice, you should flip it 500\*10/2.5 = 2000 times.
 
-<img src="level10.png" width="300">
+<img src="level10.png" >
 
 After final battle, you are asked to choose to press GREEN or PURPLE button, press PURPLE and get the flag.
 
