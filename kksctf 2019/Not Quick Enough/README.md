@@ -18,7 +18,7 @@ a1 a2 a3 ...  an            an a2 a3 ... an-1  a1              an a2 a3 ...an-1 
 |             |      =>        |         |             =>                  |     |
 l             r                l         r                                 r     l
 ```
-In next recursion (without a1), the an should be the biggest, an-1 shoulbe be seconde biggest element in the above example
+In next recursion (without a1), the an should be the biggest, an-1 shoulbe be second biggest element.
 
 An easy way to construct it is 1000 1 2 3 ... 999, and that's how I accomplished it.
 
