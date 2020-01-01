@@ -1,6 +1,6 @@
 # BambooFox CTF
 
-<img src="banner.png">
+<img src="banner.png" width="500">
 
 # Index
 
