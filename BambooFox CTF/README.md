@@ -1,6 +1,8 @@
 # BambooFox CTF
 
-#Index
+<img src="banner.png">
+
+# Index
 
 | Names                  |Genre               |Point      |
 |------------------------|---------------------|----------|
