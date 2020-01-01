@@ -45,4 +45,3 @@ while True:
 
 print(m)
 print(codecs.decode(hex(m)[2:], 'hex'))
-#FLAG{Youg0tTH3Fl4GIHavesPoKEN}
