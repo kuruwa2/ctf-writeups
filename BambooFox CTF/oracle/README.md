@@ -18,7 +18,7 @@ m = an * 3^n + an-1 * 3^n-1 + ... + a1 * 3 + a0
 ```
 Where r is received numbers.
 
-Now calculate d = modinv(3, n), and send d * c:
+Now calculate 3^-1 = modinv(3, n), and send 3^-1 * c (mod n):
 ```
 (3^-1)c -> (3^-1)m
 (3^-1)m =  an * 3^n-1 + an-1 * 3^n-2 + ... + a1 + a0 * 3^-1
