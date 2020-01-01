@@ -54,7 +54,7 @@ That's ok because if we let nonce = M\[0\] ^ L, then L\'\' = e(M\[0\] ^ L) = C\[
 In the second encryption, I send in:
 
 ```
-nonce'' = L'' = C\[0\] ^ L
+nonce'' = L'' = C[0] ^ L
 plain'' = (120)
 for i in range (256):
       s = b'giveme flag.txt' + (i).to_bytes(1)
