@@ -18,7 +18,7 @@ m = an * pow(3,n) + an-1 * pow(3,n-1) + ... + a1 * 3 + a0
 ```
 Where r is received numbers.
 
-Now calculate pow(3,-1) = modinv(3, n), and send pow(3,-1) * c (mod n), you should get pow(3,-1) * m (mod n)
+Now calculate pow(3,-1), the inverse of 3 to n, and send pow(3,-1) * c (mod n), you should get pow(3,-1) * m (mod n)
 ```
 pow(3,-1)c -> pow(3,-1)m
 pow(3,-1)m =  an * pow(3,n-1) + an-1 * pow(3,n-2) + ... + a1 + a0 * pow(3,-1)
