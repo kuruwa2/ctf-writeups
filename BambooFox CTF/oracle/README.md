@@ -26,7 +26,7 @@ pow(3,-1)m =  an * pow(3,n-1) + an-1 * pow(3,n-2) + ... + a1 + a0 * pow(3,-1)
 => r = a1 + (a0 * pow(3,-1) (mod n)) (mod 3)
 => a1 = r - (a0 * pow(3,-1) (mod n)) (mod 3)
 ```
-Send pow(3,-2) * m(modn):
+Send pow(3,-2) * m(mod n):
 ```
 pow(3,-2)c -> pow(3,-2)m
 pow(3,-2)m =  an * pow(3,n-2) + an-1 * pow(3,n-3) + ... + a2 + a1 * pow(3, -1) + a0 * pow(3,-2)
