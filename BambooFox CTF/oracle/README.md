@@ -8,6 +8,8 @@
 
 The server is an RSA decryptor but only send the messages after being modded by 3.
 
+The message can be revealed by LSB [oracle](oracle.py) attack.
+
 Send the original ciphertext c and you will receive m%3.
 
 ```
