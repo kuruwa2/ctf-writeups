@@ -31,8 +31,8 @@ Send pow(3,-2) * m(mod n):
 pow(3,-2)c -> pow(3,-2)m
 pow(3,-2)m =  an * pow(3,n-2) + an-1 * pow(3,n-3) + ... + a2 + a1 * pow(3, -1) + a0 * pow(3,-2)
 
-=> r = a2 + (a1 * pow(3,-1) (mod n)) + (a0 * pow(3,-2) (mod n)) (mod 3)
-=> a2 = r - (a1 * pow(3,-1) (mod n)) - (a0 * pow(3,-2) (mod n)) (mod 3)
+=> r = a2 + (a1 * pow(3,-1) + a0 * pow(3,-2) (mod n)) (mod 3)
+=> a2 = r - (a1 * pow(3,-1) + a0 * pow(3,-2) (mod n)) (mod 3)
 ```
 Repeat until getting 0 multiple times, and you can calculate the message by (a0, a1, ..., an).
 
