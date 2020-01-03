@@ -13,7 +13,7 @@ First encryption, send in: (+ is concatenation and (n) is 16 bytes expansion to 
 ```
 nonce = 00000000000000000000000000000000
 plain = 000000000000000000000000000000010000000000000000000000000000008000000000000000000000000000000000
-      = (1) + (128) + (0)
+      = (1) + (128) + nonce
 ```
 Where plain = M\[0\]+M\[1\]+M\[2\].
 
@@ -25,6 +25,7 @@ nonce  = 00000000000000000000000000000000
 cipher = C[0] + C[1] ^ (M[0] ^ 128)
        = C'[0] + C'[1]
 tag    = C[2] ^ M[2]
+       = C[2] ^ nonce
 ```
 This will reply auth = True because:
 ```
