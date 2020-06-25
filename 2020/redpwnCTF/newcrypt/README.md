@@ -25,8 +25,8 @@ The bit length of x here is about $\frac{1024-128}{2048} = 0.4375$.
 
 By this relation of e and d, we can have 10 basic equations: ($G$ is GCD and $s=n-\phi$)
 
-<img src="https://latex.codecogs.com/gif.latex?W_i%3A%20Ge_id_i-k_in%3DG-k_is'>
-<img src="https://latex.codecogs.com/gif.latex?G_%7Bi%2Cj%7D%3A%20k_iGe_jd_j-k_jGe_id_i%3DG%28k_i-k_j%29'>
+<img src="https://latex.codecogs.com/gif.latex?W_i%3A%20Ge_id_i-k_in%3DG-k_is">
+<img src="https://latex.codecogs.com/gif.latex?G_%7Bi%2Cj%7D%3A%20k_iGe_jd_j-k_jGe_id_i%3DG%28k_i-k_j%29">
 
 The basic idea is using these equations to construct a vector-matrix equation $xB=v$ where $B$ is an upper triangle matrix and
 
