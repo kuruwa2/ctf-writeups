@@ -35,10 +35,7 @@ $x=(k_1k_2k_3k_4, d_1k_2k_3k_4, k_1d_2k_3k_4, d_1d_2k_3k_4, k_1k_2d_3k_4, ..., d
 For the purpose that will be mentioned later, we want to choose $G_{i,j}$ as many as possible and $W_i$ as less as possible.
 
 My choice was:
-$k_1k_2k_3k_4=k_1k_2k_3k_4, k_2k_3k_4W_1, k_3k_4G_{1,2}, k_3k_4W_1W_2,\\
-k_2k_4G_{1,3}, k_4W_1G_{2,3}, k_4W_2G_{1,3}, k_4W_1W_2W_3,\\
-k_2k_3G_{1,4}, k_3W_1G_{2,4}, G_{1,2}G_{3,4}, W_1W_2G_{3,4}\\
-G_{1,3}G_{2,4}, W_1W_3G_{2,4}, W_2W_3G_{1,4}, W_1W_2W_3W_4$
+<img src="https://latex.codecogs.com/gif.latex?k_1k_2k_3k_4%3Dk_1k_2k_3k_4%2C%20k_2k_3k_4W_1%2C%20k_3k_4G_%7B1%2C2%7D%2C%20k_3k_4W_1W_2%2C%5C%5C%20k_2k_4G_%7B1%2C3%7D%2C%20k_4W_1G_%7B2%2C3%7D%2C%20k_4W_2G_%7B1%2C3%7D%2C%20k_4W_1W_2W_3%2C%5C%5C%20k_2k_3G_%7B1%2C4%7D%2C%20k_3W_1G_%7B2%2C4%7D%2C%20G_%7B1%2C2%7DG_%7B3%2C4%7D%2C%20W_1W_2G_%7B3%2C4%7D%5C%5C%20G_%7B1%2C3%7DG_%7B2%2C4%7D%2C%20W_1W_3G_%7B2%2C4%7D%2C%20W_2W_3G_%7B1%2C4%7D%2C%20W_1W_2W_3W_4">
 
 This lead to:
 
@@ -62,7 +59,7 @@ This lead to:
 ```
 
 and 
-$v=[k_1k_2k_3k_4,\ (1-k_1s)k_2k_3k_4,\ (k_1-k_2)k_3k_4,\ (1-k_1s)(1-k_2s)k_3k_4,\\\ \ \ \ \ \ \ \ (k_1-k_3)k_2k_4,\ (1-k_1s)(k_2-k_3)k_4,\ (k_1-k_3)(1-k_2s)k_4,\ \Pi_{i=1}^3(1-k_is)k_4,\\\ \ \ \ \ \ \ \ (k_1-k_4)k_2k_3,\ (1-k_1s)(k_2-k_4)k_3,\ (k_1-k_2)(k_3-k_4),\ (1-k_1s)(1-k_2s)(k_3-k_4),\\\ \ \ \ \ \ \ \ (k_1-k_3)(k_2-k_4),\ (1-k_1s)(1-k_3s)(k_2-k_4),\ (1-k_2s)(1-k_3s)(k_1-k_4),\ \Pi_{i=1}^4(1-k_is)]$
+<img src="https://latex.codecogs.com/gif.latex?v%3D%5Bk_1k_2k_3k_4%2C%5C%20%281-k_1s%29k_2k_3k_4%2C%5C%20%28k_1-k_2%29k_3k_4%2C%5C%20%281-k_1s%29%281-k_2s%29k_3k_4%2C%5C%5C%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%28k_1-k_3%29k_2k_4%2C%5C%20%281-k_1s%29%28k_2-k_3%29k_4%2C%5C%20%28k_1-k_3%29%281-k_2s%29k_4%2C%5C%20%5CPi_%7Bi%3D1%7D%5E3%281-k_is%29k_4%2C%5C%5C%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%28k_1-k_4%29k_2k_3%2C%5C%20%281-k_1s%29%28k_2-k_4%29k_3%2C%5C%20%28k_1-k_2%29%28k_3-k_4%29%2C%5C%20%281-k_1s%29%281-k_2s%29%28k_3-k_4%29%2C%5C%5C%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20%28k_1-k_3%29%28k_2-k_4%29%2C%5C%20%281-k_1s%29%281-k_3s%29%28k_2-k_4%29%2C%5C%20%281-k_2s%29%281-k_3s%29%28k_1-k_4%29%2C%5C%20%5CPi_%7Bi%3D1%7D%5E4%281-k_is%29%5D">
 
 Every row of $B$ is a vector much bigger than $v$ and $v$ is linear combination of these rows.
 
