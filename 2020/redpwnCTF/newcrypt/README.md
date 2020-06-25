@@ -21,7 +21,9 @@ The bit length of x here is about $\frac{1024-128}{2048} = 0.4375$.
 
 #### The math
 
+\begin{equation}
 $e_id_i=1+k_i\frac{\phi}{G}$
+\end{equation}
 
 By this relation of e and d, we can have 10 basic equations: ($G$ is GCD and $s=n-\phi$)
 
