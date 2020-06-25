@@ -17,7 +17,7 @@ The vulnerabililty here is that xs' bit length is small compared to n, so lattic
 
 ![](https://i.imgur.com/BqOL6ey.png)
 
-The bit length of x here is about $\frac{1024-128}{2048} = 0.4375$.
+The bit length of x here is about \frac{1024-128}{2048} = 0.4375.
 
 #### The math
 
