@@ -25,12 +25,12 @@ The bit length of x here is about $\frac{1024-128}{2048} = 0.4375$.
 
 By this relation of e and d, we can have 10 basic equations: ($G$ is GCD and $s=n-\phi$)
 
-$W_i: Ge_id_i-k_in=G-k_is$
-$G_{i,j}: k_iGe_jd_j-k_jGe_id_i=G(k_i-k_j)$
+<img src="https://latex.codecogs.com/gif.latex?W_i%3A%20Ge_id_i-k_in%3DG-k_is'>
+<img src="https://latex.codecogs.com/gif.latex?G_%7Bi%2Cj%7D%3A%20k_iGe_jd_j-k_jGe_id_i%3DG%28k_i-k_j%29'>
 
 The basic idea is using these equations to construct a vector-matrix equation $xB=v$ where $B$ is an upper triangle matrix and
 
-$x=(k_1k_2k_3k_4, d_1k_2k_3k_4, k_1d_2k_3k_4, d_1d_2k_3k_4, k_1k_2d_3k_4, ..., d_1d_2d_3d_4)$
+<img src="https://latex.codecogs.com/gif.latex?x%3D%28k_1k_2k_3k_4%2C%20d_1k_2k_3k_4%2C%20k_1d_2k_3k_4%2C%20d_1d_2k_3k_4%2C%20k_1k_2d_3k_4%2C%20...%2C%20d_1d_2d_3d_4%29">
 
 For the purpose that will be mentioned later, we want to choose $G_{i,j}$ as many as possible and $W_i$ as less as possible.
 
@@ -91,10 +91,7 @@ When choosing $G_{i,j}$, we elimintae $k_i$ and $k_j$ but only multiply the numb
 
 We can even calculate the upperbound of bit length of $d_i$ by the theorem.
 
-$$
-||v||\approx n^{2+4\delta}\leq n^{\frac{1}{16}(32+13\delta+22.5)}\approx 4(e_1^8e_2^8e_3^8e_4^8n^{13\delta+22.5})^{\frac{1}{16}}=\sqrt{n}vol(B)^{\frac{1}{n}}\\
-\Rightarrow\delta\leq\frac{15}{34}=0.441...
-$$
+<img src="https://latex.codecogs.com/gif.latex?%7C%7Cv%7C%7C%5Capprox%20n%5E%7B2&plus;4%5Cdelta%7D%5Cleq%20n%5E%7B%5Cfrac%7B1%7D%7B16%7D%2832&plus;13%5Cdelta&plus;22.5%29%7D%5Capprox%204%28e_1%5E8e_2%5E8e_3%5E8e_4%5E8n%5E%7B13%5Cdelta&plus;22.5%7D%29%5E%7B%5Cfrac%7B1%7D%7B16%7D%7D%3D%5Csqrt%7Bn%7Dvol%28B%29%5E%7B%5Cfrac%7B1%7D%7Bn%7D%7D%5C%5C%20%5CRightarrow%5Cdelta%5Cleq%5Cfrac%7B15%7D%7B34%7D%3D0.441...">
 
 
 #### [The script](newcrypt.py)
