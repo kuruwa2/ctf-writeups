@@ -1,0 +1,12 @@
+service Pfffft
+{
+	disable = no
+	type = UNLISTED
+	wait = no
+	server = /home/HNP/run.sh
+	socket_type = stream
+	protocol = tcp
+	user = root
+	port = 42070
+	flags = REUSE
+}

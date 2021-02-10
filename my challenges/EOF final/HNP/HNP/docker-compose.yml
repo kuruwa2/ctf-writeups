@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  hash_name_program:
+    build: .
+    volumes:
+      - ./share:/home/CoB:ro
+      - ./xinetd:/etc/xinetd.d/CoB:ro
+    ports:
+      - "42070:42070"
+    expose:
+      - "42070"

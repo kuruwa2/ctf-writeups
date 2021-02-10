@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  CoB:
+    build: .
+    volumes:
+      - ./share:/home/CoB:ro
+      - ./xinetd:/etc/xinetd.d/CoB:ro
+    ports:
+      - "42069:42069"
+    expose:
+      - "42069"
