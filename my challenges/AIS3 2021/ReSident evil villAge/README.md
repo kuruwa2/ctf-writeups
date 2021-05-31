@@ -8,4 +8,6 @@
 
 Sign two messages whose product equals to target message.
 
-$$m_1\*m_2=m\Rightarrow m_1^d\mul m_2^d = m^d$$
+```math
+m_1\*m_2=m\Rightarrow m_1^d\mul m_2^d = m^d
+```
