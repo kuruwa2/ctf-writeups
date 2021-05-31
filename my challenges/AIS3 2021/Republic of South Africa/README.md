@@ -10,4 +10,4 @@ Try ```keygen``` with some lower digits you will discover the count (p+q) is the
 
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;p&plus;q=31415...12848" title="\bg_black p+q=31415...12848" />
 
-<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;p-q=\sqrt{(p&plus;q)^2-4\times n}=63615...79946" title="\bg_black p-q=\sqrt{(p+q)^2-4*n}=40469...62916" />
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;p-q=\sqrt{(p&plus;q)^2-4\times&space;n}=63615...79946" title="\bg_black p-q=\sqrt{(p+q)^2-4*n}=40469...62916" />
