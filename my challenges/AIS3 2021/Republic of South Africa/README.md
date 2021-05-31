@@ -6,4 +6,8 @@
 
 ## __Solution__
 
-Try ```keygen``` with some lower digits you can discover the count (p+q) is the first ```digits``` digits of constant <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\pi" title="\pi" />
+Try ```keygen``` with some lower digits you can discover the count (p+q) is the first ```digits``` digits of constant <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\pi" title="\pi" />.
+
+```math
+p+q=314159...12848
+```
