@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  rsa:
+    build: .
+    volumes:
+      - ./share:/home/RSA:ro
+      - ./xinetd:/etc/xinetd.d/RSA:ro
+    ports:
+      - "42069:42069"
+    expose:
+      - "42069"

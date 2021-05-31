@@ -1,0 +1,12 @@
+service rsa
+{
+	disable = no
+	type = UNLISTED
+	wait = no
+	server = /home/RSA/run.sh
+	socket_type = stream
+	protocol = tcp
+	user = root
+	port = 42069
+	flags = REUSE
+}
