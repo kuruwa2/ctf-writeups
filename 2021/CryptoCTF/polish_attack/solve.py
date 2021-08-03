@@ -3,7 +3,7 @@ import gmpy2
 from Crypto.Util.number import *
 from sage.all import *
 
-def small_roots(f, bounds, m=1, d=None):
+def small_roots(f, bounds, m=1, d=None):	#https://github.com/defund/coppersmith/blob/master/coppersmith.sage
     if not d:
         d = f.degree()
 
