@@ -17,7 +17,6 @@ def encrypt(arr):
     stone  = combine(lava, air)
     sand   = combine(stone, water)
     seed   = combine(sand, life)
-    print(seed)
     random.seed(seed)
     
     h, w = arr.shape
