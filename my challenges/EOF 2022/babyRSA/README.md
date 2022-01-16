@@ -8,9 +8,7 @@ And
 
 Beyond
 
-Your
-
-Understarnding
+Your understanding
 
 [chal.py](chal.py)
 [output.txt](output.txt)
