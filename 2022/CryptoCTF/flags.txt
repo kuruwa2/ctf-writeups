@@ -1,0 +1,31 @@
+Mic Check	CCTF{Th3_B3sT_1S_Yet_t0_C0m3!!}
+313 Loyal	CCTF{4n0t3R_h0MomORpH1C_3NcRyP7!0n_5CH3Me!}
+Aniely		CCTF{7rY_t0_D3cRyPT_z3_ChaCha20}
+Baphomet	CCTF{UpP3r_0R_lOwER_17Z_tH3_Pr0bL3M}
+Cantilever	CCTF{5L3Ek_4s__s1lK__Ri9H7?!}
+DBB		CCTF{p0Hl!9_H31LmaN_4tTackin9!}
+Diploma		CCTF{ma7RicES_4R3_u5EfuL_1n_PUbl!c-k3y_CrYpt0gr4Phy!}
+Faonsa		CCTF{n3W_4t7aCk_8y_fAuL7_!nJ3cT10N_oN_p!!!}
+Fiercest	CCTF{R3aLlY_tH1S_1z_Seiferts_R54_AT7aCk!!?}
+GSDP		CCTF{PKCS_N0n_cOmMu74T!v3_rIn9}
+Infinity castle	CCTF{Mix1ng_c4lcUluS_w17h_Numb3r_The0Rry_S33ms_s7r0ng_cRyp70_Sch3m4!!}
+Jeksign		CCTF{4_diOpH4nT1nE_3Qua7i0n__8Y__Jekuthiel_Ginsbur!!}
+Keydream	CCTF{h0M3_m4dE_k3Y_Dr1vEn_CrYp7O_5ySTeM!}
+Klamkin		CCTF{f1nDin9_In7Eg3R_50Lut1Ons_iZ_in73rEStIn9!}
+Lagima		CCTF{3lGam4L_eNcR!p710n_4nD_L4T!n_5QuarS3!}
+Larisa		CCTF{pUbliC_k3y_crypt0graphY_u5in9_rOw-l4t!N_5quAr3S!}
+Mino		CCTF{MINO_iZ_4N_3a5Y_Crypto_C0d!n9_T4sK!}
+NLCS		CCTF{|wK)^10%}
+Oak land	CCTF{V33333rY_eeeeZy_DLP_cH41L3n9E!}
+Persian cat	CCTF{d0_yOu_tH47_the_ori9iN_of_Iraqi_C1ph3r_Iz_Iran?!!}
+polyRSA		CCTF{F4C70r!N9_tRIcK5_aR3_fUN_iN_RSA?!!!}
+Resign		CCTF{Unkn0wN_K3y_5h4rE_4t7aCk_0n_Th3_RSA!}
+Side step	CCTF{h0W_iZ_h4rD_D15crEt3_lO9ar!Thm_c0nJec7ur3?!}
+Shaim		CCTF{A9aiN____DES____N0T_w3AkNEs5!!}
+Soda		CCTF{f4cToriZat!On__5Tt4cK_0n_4_5i9na7urE!}
+SOTS		CCTF{3Xpr3sS_4z_Th3_sUm_oF_7w0_Squ4rE5!}
+Sparse		CCTF{5pArs3_dIfFeRenc3_f4ct0r1za7iOn_m3th0d!}
+Starter ECC	CCTF{8E4uTy_0f_L1f7iN9_cOm3_Up!!}
+Versace		CCTF{8As3d_oN_f4c70r1n9_4nD_d15cr3tE_lOgaRiThM!}
+Volgo		CCTF{OOJMPMDDIXCLNNWFTEJUMFXKBRVVMOPSLSSLUTXVDVNDMYYPHPWFJRNJBVBOMUYRDUMOZOMGGH}
+Watery soup	CCTF{Pl34se_S!r_i_w4N7_5omE_M0R3_5OuP!!}
