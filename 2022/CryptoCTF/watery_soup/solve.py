@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#revised from grhkm's script
 
 from pwn import *
 from sage.all import *
